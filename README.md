@@ -2,7 +2,7 @@
 
 TEAM NAME: 30ATE
 
-people: Sasha Sluis-Cremer (sas609@pitt.edu) 
+people: Sasha Sluis-Cremer (sas609@pitt.edu), 
   (group 38)
 
   
