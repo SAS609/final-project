@@ -6,6 +6,6 @@ people: Sasha Sluis-Cremer (sas609@pitt.edu),
   (group 38)
 
   
-Neighborhood: 
+Neighborhood: Mount. Oliver
 
-  datasets: 
+  datasets: Crime rate, Life Expectancy, Diversity
