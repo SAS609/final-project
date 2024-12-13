@@ -2,10 +2,10 @@
 
 TEAM NAME: 30ATE
 
-people: Sasha Sluis-Cremer (sas609@pitt.edu), 
+People: Sasha Sluis-Cremer (sas609@pitt.edu), Kay Lin (kal286@pitt.edu)
   (group 38)
 
   
-Neighborhood: 
+Neighborhood: Mount. Oliver
 
-  datasets: 
+  Datasets: Crime rate, Life Expectancy, Diversity
